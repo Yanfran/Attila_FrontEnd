@@ -1,0 +1,9 @@
+.fondo{
+    background: rgb(80, 72, 230);
+    background: linear-gradient(0%, rgba(86, 79, 232, 1) 49%, rgba(80, 72, 230, 0.9948354341736695) 100%);
+    /* background: #009EAE;
+    padding-bottom: 90px; */
+    position: relative;
+    width: auto;
+
+}

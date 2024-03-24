@@ -1,0 +1,35 @@
+.navbar-relogeria {
+    background: #DBEAFE !important;
+}
+
+.name {
+    margin-top: 10px;
+    margin-right: 5px !important;
+    color: #64748B;
+}
+
+#dropdown-menu-align-end {
+    background-color: #ABBBD0;
+    border: none !important;
+    padding: 7px;
+    color: #64748B;
+}
+
+.imgLogo {
+    width: 150px;
+    margin-bottom: -10px;
+}
+
+.textLogo {
+    margin-left: 5px;
+}
+
+.linea {
+    width: 100% !important;
+}
+
+@media only screen and (max-width: 600px) {
+    .routes {
+        display: none;
+    }
+}

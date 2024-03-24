@@ -1,0 +1,65 @@
+.detailTickets {
+  background: #F1F5F9 !important;
+  padding-top: 30px;
+}
+
+.btn-link-fill {
+  padding: 10px 40px;
+  margin-left: 3px !important;
+  font-size: 12px !important;
+  font-weight: 700 !important;
+  color: #94A3B8 !important;
+}
+
+.btn-link-fill.activo {
+  font-weight: 700 !important;
+  border: none !important;
+  border-radius: 25px !important;
+  color: #94A3B8 !important;
+  background: #DBEAFE !important;
+}
+
+/* .btn-link-fill:hover {
+    font-weight: 700!important;
+    border-radius: 25px!important;
+    color: #94A3B8!important;
+    background: #DBEAFE!important;
+  } */
+
+/* .btn-link-fill {  
+}
+.btn-link-fill.hover {
+  color: #322F2F;
+} */
+.linea-vertical {
+  transform: rotate(90deg);
+  margin-top: 200px !important;
+  width: 30% !important;
+  margin-left: -150px;
+
+}
+
+.save {
+  padding: 7px 35px !important;
+}
+
+.detailTicketsTrouble {
+  margin-bottom: 30px;
+}
+
+.textarea-save {
+  /* background: #F1F5F9!important;
+  border-color: #F1F5F9!important; */
+}
+
+@media only screen and (min-width : 901px) {
+  .estatus-lineales {
+    display: flex;
+  }
+}
+
+@media only screen and (max-width : 900px) {
+  .estatus-lineales {
+    display: block;
+  }
+}

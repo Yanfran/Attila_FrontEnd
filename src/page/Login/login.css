@@ -1,0 +1,66 @@
+.contenedor-login {
+    /* background-color: #DBEAFE; */
+    /* background: rgb(202, 85, 233);
+    background: linear-gradient(90deg, rgba(202, 85, 233, 1) 0%, rgba(86, 79, 232, 1) 49%, rgba(80, 72, 230, 0.9948354341736695) 100%); */
+
+    background: rgb(21, 121, 255);
+    background: linear-gradient(90deg, rgba(21, 121, 255, 1) 0%, rgba(72, 143, 238, 1) 35%, rgba(219, 234, 254, 1) 100%);
+}
+
+.label {
+    color: azure;
+}
+
+.cubol {
+    /* display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    z-index: 999;
+    width: 100%; */
+    padding: 30px 20px !important;
+    border: solid 1px rgba(255, 255, 255, .5) !important;
+    border-radius: 16px !important;
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, .1),
+        -4px -4px 10px rgba(0, 0, 0, .1) !important;
+    background-color: rgba(255, 255, 255, .1) !important;
+    -webkit-backdrop-filter: blur(5px) !important;
+    backdrop-filter: blur(5px) !important;
+}
+
+/* .form-login {
+    background-color: #322F2F !important;
+    color: azure !important;
+} */
+
+.check {
+    color: azure;
+}
+
+/* .login {
+    border: solid 1px azure !important;
+    background-color: #322F2F !important;
+    padding: 5px 25px !important;
+} */
+
+/* .title {
+    color: azure !important;
+} */
+
+.form {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.logo-login {
+    position: absolute;
+}
+
+.imgLogin {
+    width: 250px;
+    margin-top: -500px;
+    /* width: 480px;
+    transform: rotate(-90deg);
+    margin-left: -550px; */
+}
